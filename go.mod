@@ -1,4 +1,4 @@
-module begin_go
+module github.com/sheen4n/begin_go
 
 go 1.15
 
